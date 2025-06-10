@@ -12,21 +12,21 @@ const teamMembers = [
     name: 'Nour Hacıbayram',
     role: 'Makine Öğrenmesi Mühendisi',
     initials: 'NH',
-    image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=800&auto=format',
+    image: '',
     bgGradient: 'bg-gradient-to-br from-emotion-primary/20 to-emotion-secondary/50'
   },
   {
     name: 'Abdulselam Hardan',
     role: 'Frontend Geliştirici',
     initials: 'AH',
-    image: 'https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?q=80&w=800&auto=format',
+    image: '',
     bgGradient: 'bg-gradient-to-br from-emotion-secondary/20 to-emotion-accent/50'
   },
   {
     name: 'Mohamad Abdullah Yahia',
     role: 'UX/UI Tasarımcı',
     initials: 'MY',
-    image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=800&auto=format',
+    image: '',
     bgGradient: 'bg-gradient-to-br from-emotion-accent/20 to-emotion-primary/50'
   }
 ];
